@@ -6,5 +6,4 @@ I attempted to create the game in 3D isometric since I was intrigued in the maki
 
 ## How to Run the Game
 There's two ways to play this game
-- Download file "Build.zip" and then unzip the file in your local computer
-- Clone the project to your local PC and open Build/My Project.exe
+- Download file "TileMap-ReportPresentation.exe" and enjoy!
